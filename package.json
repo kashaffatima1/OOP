@@ -1,0 +1,23 @@
+{
+  "name": "kf10-oop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kashaf",
+  "license": "ISC",
+  "description": "OOP with typescript, inquirer and node.js",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
